@@ -1,4 +1,4 @@
-### *Synthetic Data Augmentation and Deep Learning for Real-Time Weed Detection in Agricultural Fields
+# Synthetic Data Augmentation and Deep Learning for Real-Time Weed Detection in Agricultural Fields
 
 ## Overview
 
@@ -67,17 +67,3 @@ Our combined pipeline shows significant improvements in precision and recall whe
 
 This system offers a promising solution for automating weed detection in agricultural fields, contributing to the broader goals of precision agriculture. The combination of YOLOv5 for detection, VGG16 for classification, and CycleGAN for synthetic data generation provides a robust framework for real-time monitoring and crop management.
 
-## Authors
-
-- Tshewang Rigzin
-- M I Nuha Marzuqha
-- Sonam Tharchen  
-Vellore Institute of Technology University
-
-## Acknowledgements
-
-We would like to thank the Vellore Institute of Technology for their support and resources provided during this research.
-
----
-
-Feel free to modify or add sections based on your needs!
